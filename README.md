@@ -2,6 +2,6 @@
 
 Instructions for the practice
 
-1. Download Bowtie from [SourceForge](https://sourceforge.net/projects/bowtie-bio/files/bowtie/1.2.1.1)
-2. Unzip in a folder 
-3. Open a terminal. Go to the folder
+First,download Bowtie from [SourceForge](https://sourceforge.net/projects/bowtie-bio/files/bowtie/1.2.1.1). Then unzip the file in a folder you choose. Now, open a terminal and go to the folder. 
+
+Bowtie comes with some example files which we will use in this practice: 
