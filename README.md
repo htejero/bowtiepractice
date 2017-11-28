@@ -1,6 +1,9 @@
 
 # Bowtie Practice
 
+The link to the presentation is [here](https://docs.google.com/presentation/d/18-KFfanvN0s7i0mDb0_UMfiVPE5_9x7yrSXI1goaOIg/edit?usp=sharing)
+
+
 The link of the practice is [here](http://rpubs.com/htejero/bowtiePractice)
 
 __Exercise:__
